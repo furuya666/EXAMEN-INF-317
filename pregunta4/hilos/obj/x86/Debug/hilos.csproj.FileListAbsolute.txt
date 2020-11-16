@@ -1,0 +1,15 @@
+C:\Users\FURUYA\Documents\SharpDevelop Projects\hilos\hilos\bin\Debug\hilos.exe
+C:\Users\FURUYA\Documents\SharpDevelop Projects\hilos\hilos\bin\Debug\hilos.pdb
+C:\Users\FURUYA\Documents\SharpDevelop Projects\hilos\hilos\obj\x86\Debug\hilos.csprojResolveAssemblyReference.cache
+C:\Users\FURUYA\Documents\SharpDevelop Projects\hilos\hilos\obj\x86\Debug\hilos.exe
+C:\Users\FURUYA\Documents\SharpDevelop Projects\hilos\hilos\obj\x86\Debug\hilos.pdb
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\hilos\hilos\bin\Debug\hilos.exe
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\hilos\hilos\bin\Debug\hilos.pdb
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\hilos\hilos\obj\x86\Debug\hilos.csprojResolveAssemblyReference.cache
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\hilos\hilos\obj\x86\Debug\hilos.exe
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\hilos\hilos\obj\x86\Debug\hilos.pdb
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\pregunta4\hilos\bin\Debug\hilos.exe
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\pregunta4\hilos\bin\Debug\hilos.pdb
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\pregunta4\hilos\obj\x86\Debug\hilos.csprojResolveAssemblyReference.cache
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\pregunta4\hilos\obj\x86\Debug\hilos.exe
+C:\Users\FURUYA\Desktop\Nueva carpeta\INF-317\Furuya Velarde Gary Henry INF-317\pregunta4\hilos\obj\x86\Debug\hilos.pdb
